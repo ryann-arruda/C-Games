@@ -7,7 +7,7 @@
  * Data da criação: 26/10/2019
  * Última modificação: 27/10/2019
  *
- * Descrição: O software permite jogar uma partida de jogo da velha com um oponente.
+ * Descrição: O software permite jogar uma ou mais partidas do jogo da velha com um oponente.
  *
  ****/
 
